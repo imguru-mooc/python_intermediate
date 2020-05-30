@@ -1,0 +1,19 @@
+test_add (__main__.MyCalcTest) ... ok
+test_substract (__main__.MyCalcTest) ... ok
+test_bad_int (__main__.TestConversion) ... ok
+test_bad_int_msg (__main__.TestConversion) ... ok
+test_file_not_found (__main__.TestIO) ... ok
+test_isupper (__main__.TestStringMethods) ... ok
+test_split (__main__.TestStringMethods) ... ok
+test_upper (__main__.TestStringMethods) ... ok
+test_url_gets_to_stdout (__main__.TestURLPrint) ... ok
+test_0 (__main__.Tests) ... ok
+test_1 (__main__.Tests) ... skipped 'skipped test'
+test_2 (__main__.Tests) ... ok
+test_3 (__main__.Tests) ... skipped 'Mac specific test'
+test_4 (__main__.Tests) ... expected failure
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.002s
+
+OK (skipped=2, expected failures=1)
